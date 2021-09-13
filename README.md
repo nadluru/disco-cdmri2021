@@ -1,4 +1,5 @@
 # disco-cdmri2021
+Material from UWMadison's participation in the [DiSCo](http://hardi.epfl.ch/static/events/2021_challenge/data.html) challenge.
 # list of software
 - mrtrix3
 - trekker
